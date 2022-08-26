@@ -209,6 +209,7 @@
 
     .audio-control {
       display: none !important;
+      visibility: hidden;
   }
   }
 
