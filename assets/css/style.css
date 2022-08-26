@@ -202,6 +202,12 @@
       display: none;
   }
 
+  @media (max-width: 1023px) {
+    .hide-on-mobile-tablet {
+      display: none;
+  }
+  }
+
   .audio-control {
     display: flex;
     align-items: center;
