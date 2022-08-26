@@ -206,6 +206,10 @@
     .hide-on-mobile-tablet {
       display: none;
   }
+
+    .audio-control {
+      display: none !important;
+  }
   }
 
   .audio-control {
